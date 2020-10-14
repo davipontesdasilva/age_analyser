@@ -29,7 +29,7 @@
  
  ```bash
 #Clone a Repository
-$ git clone https://github.com/davipontesdasilva/resposive-html-layout.git
+$ https://github.com/davipontesdasilva/age_analyser.git
 
 
 ```
