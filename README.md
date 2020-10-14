@@ -1,7 +1,7 @@
 <h1>AGE ANALYSER</h1>
 
 <h1>
-<img src="responsive_html_layout.gif">
+<img src="age_analyser.gif">
 </h1>
 
 ##  🗂 ABOUT 
@@ -21,7 +21,7 @@
  ---
  
 ## LIVE DEMO 
-[live](https://confident-mccarthy-a57620.netlify.app/)
+[live](https://nostalgic-lewin-f669f1.netlify.app)
  
  ---
  
